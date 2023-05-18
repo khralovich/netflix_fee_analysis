@@ -36,7 +36,7 @@ To use this project, follow these steps:
 
 ## Results
 
-The analysis of Netflix subscription fees in different countries provides valuable insights into the pricing strategy employed by Netflix. The results include visualizations, summary statistics, and key findings related to subscription fees, library sizes, and cost per title across countries.
+The analysis of Netflix subscription fees in different countries provides valuable insights into the pricing strategy based on data by Netflix. The results include visualizations, summary statistics, and key findings related to subscription fees, library sizes, and cost per title across countries.
 
 ## Conclusion
 
