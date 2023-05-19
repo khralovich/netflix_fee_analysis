@@ -1,4 +1,4 @@
-Country,Country code,Total Library Size ,No. of TV Shows ,No. of Movies ,Cost Per Month - Basic ($) ,Cost Per Month - Standard ($) ,Cost Per Month - Premium ($) 
+country,code,library_size,tv_shows,movies,basic_usd,standard_usd,premium_usd
 Argentina,ar,4760,3154,1606,3.74,6.3,9.26
 Australia,au,6114,4050,2064,7.84,12.12,16.39
 Austria,at,5640,3779,1861,9.03,14.67,20.32
@@ -39,7 +39,7 @@ Peru,pe,4986,3155,1831,6.11,8.56,11.01
 Philippines,ph,6362,4154,2208,7.35,9.14,10.93
 Poland,pl,5109,3512,1597,7.13,10.58,14.76
 Portugal,pt,5047,3419,1628,9.03,13.54,18.06
-Romania,ro,5303,3832,1471,9.03,11.29,13.54
+Romania,ro,,,,,,
 Russia,ru,5711,3624,2087,8.13,10.84,13.56
 Slovakia,sk,7035,5055,1980,9.03,11.29,13.54
 South Africa,za,5736,3686,2050,6.26,10.05,12.58
@@ -49,8 +49,8 @@ Sweden,se,4361,2973,1388,10.9,14.2,19.7
 Switzerland,ch,5506,3654,1852,12.88,20.46,26.96
 Taiwan,tw,5105,3134,1971,9.74,11.9,14.07
 Thailand,th,4948,2977,1971,8.34,10.43,12.52
-Turkey,tr,4639,2930,1709,1.97,3,4.02
-Ukraine,ua,5336,3261,2075,5.64,8.46,11.29
+Turkey,tr,,,,,,
+Ukraine,ua,,,,,,
 United Kingdom,gb,6643,4551,2092,7.91,13.2,18.48
 United States,us,5818,3826,1992,8.99,13.99,17.99
 Uruguay,uy,4989,3154,1835,8.99,12.99,15.99
